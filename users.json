@@ -1,0 +1,36 @@
+{
+    "rahul004prasad@gmail.com": {
+        "password": "123",
+        "balance": 4656.0,
+        "flagged": true
+    },
+    "pengu@example.com": {
+        "password": "123",
+        "balance": 13341.0
+    },
+    "pengu2@example.com": {
+        "password": "123",
+        "balance": 2511.0,
+        "flagged": true
+    },
+    "(admin@dffdp.com": {
+        "password": "123",
+        "balance": 3468.0,
+        "flagged": false
+    },
+    "admin@dffdp.com": {
+        "password": "123",
+        "balance": 0,
+        "flagged": false
+    },
+    "hello@example.com": {
+        "password": "123",
+        "balance": 2111.0,
+        "flagged": false
+    },
+    "hello2@example.com": {
+        "password": "123",
+        "balance": 877.0,
+        "flagged": false
+    }
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Dashboard</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f1f3f4;
+            color: #202124;
+            margin: 30px;
+        }
+
+        h2, h3 {
+            color: #1a73e8;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+<h2>Flagged Transactions</h2>
+<table>
+    <tr>
+        <th>Time</th>
+        <th>From</th>
+        <th>To</th>
+        <th>Amount</th>
+        <th>Status</th>
+    </tr>
+    {% for txn in flagged_txns %}
+        <tr>
+            <td>{{ txn.time }}</td>
+            <td>{{ txn.sender }}</td>
+            <td>{{ txn.receiver }}</td>
+            <td>₹{{ txn.amount }}</td>
+            <td>{{ txn.status }}</td>
+        </tr>
+    {% endfor %}
+</table>
+
+<h3>Top Users by Balance</h3>
+<ul>
+    {% for email, user in top_users %}
+        <li>{{ email }} — ₹{{ user.balance }}</li>
+    {% endfor %}
+</ul>
+
+<h3>Total User Balances: ₹{{ total_balance }}</h3>
+</body>
+</html>

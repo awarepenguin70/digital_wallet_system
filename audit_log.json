@@ -1,0 +1,404 @@
+[
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T17:34:03.611294"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b91143.0 to pengu2@example.com, Status: FRAUD - Exceeds \u20b91000",
+        "timestamp": "2025-05-18T17:34:16.296915"
+    },
+    {
+        "user": "(admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T17:36:24.535373"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T17:36:55.595440"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "REPORT_FRAUD",
+        "details": "Flagged pengu2@example.com",
+        "timestamp": "2025-05-18T17:37:34.840859"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T17:40:38.977023"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T17:41:32.785165"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T18:01:37.567732"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b92.0 added",
+        "timestamp": "2025-05-18T18:01:49.140629"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b92.0 added",
+        "timestamp": "2025-05-18T18:01:50.297167"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b92.0 added",
+        "timestamp": "2025-05-18T18:01:52.992872"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9222.0 to pengu@example.com, Status: OK",
+        "timestamp": "2025-05-18T18:01:57.870718"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9222.0 to pengu@example.com, Status: OK",
+        "timestamp": "2025-05-18T18:02:01.385251"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9222.0 to pengu@example.com, Status: OK",
+        "timestamp": "2025-05-18T18:02:05.488879"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9222.0 to pengu@example.com, Status: OK",
+        "timestamp": "2025-05-18T18:02:09.267025"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9222.0 to pengu@example.com, Status: OK",
+        "timestamp": "2025-05-18T18:02:12.711270"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9222.0 to pengu@example.com, Status: FREQUENCY_FRAUD - 5 transactions in last 10 minutes",
+        "timestamp": "2025-05-18T18:02:16.449173"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:27:13.842499"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b91234.0 to (admin@dffdp.com, Status: AMOUNT_FRAUD - Exceeds \u20b91000",
+        "timestamp": "2025-05-18T19:27:23.043774"
+    },
+    {
+        "user": "pengu@example.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:28:47.832640"
+    },
+    {
+        "user": "pengu@example.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:29:05.491472"
+    },
+    {
+        "user": "pengu2@example.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:29:12.525205"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:53:20.474190"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b91234.0 added",
+        "timestamp": "2025-05-18T19:53:27.506206"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:54:53.861197"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:56:13.507391"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b922.0 to pengu2@example.com, Status: OK",
+        "timestamp": "2025-05-18T19:58:28.959068"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b9123.0 added",
+        "timestamp": "2025-05-18T19:59:02.810597"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b91234.0 to (admin@dffdp.com, Status: AMOUNT_FRAUD - Exceeds \u20b91000",
+        "timestamp": "2025-05-18T19:59:11.384785"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T19:59:23.422471"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:02:50.076613"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:03:05.053095"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGOUT",
+        "details": "",
+        "timestamp": "2025-05-18T20:03:07.741600"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:03:14.092874"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:04:33.599913"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:06:58.277535"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:11:28.970061"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:29:05.708668"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:36:35.863537"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "CLEAR_FLAG",
+        "details": "Cleared flag for admin@dffdp.com",
+        "timestamp": "2025-05-18T20:37:43.772801"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:58:05.854225"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:58:15.236992"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:58:24.046673"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:58:37.732132"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T20:59:39.387837"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T21:01:30.664268"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T21:05:51.859800"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T21:30:16.674833"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9111.0 to pengu2@example.com, Status: OK",
+        "timestamp": "2025-05-18T21:30:24.417656"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T21:48:14.232186"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b9123.0 added",
+        "timestamp": "2025-05-18T21:48:21.265066"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGOUT",
+        "details": "",
+        "timestamp": "2025-05-18T21:48:33.897148"
+    },
+    {
+        "user": "hello@example.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T21:49:00.520243"
+    },
+    {
+        "user": "hello@example.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b91234.0 added",
+        "timestamp": "2025-05-18T21:49:07.683205"
+    },
+    {
+        "user": "hello@example.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9123.0 to rahul004prasad@gmail.com, Status: OK",
+        "timestamp": "2025-05-18T21:49:20.331842"
+    },
+    {
+        "user": "hello@example.com",
+        "action": "LOGOUT",
+        "details": "",
+        "timestamp": "2025-05-18T21:49:30.072438"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T21:49:36.006743"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T21:49:55.160097"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T22:04:11.380689"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "ADD_MONEY",
+        "details": "\u20b91000.0 added",
+        "timestamp": "2025-05-18T22:04:15.640995"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGOUT",
+        "details": "",
+        "timestamp": "2025-05-18T22:04:22.912431"
+    },
+    {
+        "user": "hello2@example.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T22:04:45.828274"
+    },
+    {
+        "user": "hello2@example.com",
+        "action": "SEND_MONEY",
+        "details": "Sent \u20b9123.0 to rahul004prasad@gmail.com, Status: OK",
+        "timestamp": "2025-05-18T22:04:53.574960"
+    },
+    {
+        "user": "hello2@example.com",
+        "action": "LOGOUT",
+        "details": "",
+        "timestamp": "2025-05-18T22:05:03.693730"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T22:05:07.170210"
+    },
+    {
+        "user": "rahul004prasad@gmail.com",
+        "action": "LOGOUT",
+        "details": "",
+        "timestamp": "2025-05-18T22:05:14.233242"
+    },
+    {
+        "user": "admin@dffdp.com",
+        "action": "LOGIN",
+        "details": "",
+        "timestamp": "2025-05-18T22:05:21.944425"
+    }
+]

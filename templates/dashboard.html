@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dashboard</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background-color: #f8f9fa;
+            margin: 40px;
+            color: #202124;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h2, h3 {
+            color: #1a73e8;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        input[type=number] {
+            width: 60%;
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            background-color: #1a73e8;
+            color: white;
+            padding: 10px 18px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+
+        button:hover {
+            background-color: #1669c1;
+        }
+
+        a {
+            margin-right: 20px;
+            text-decoration: none;
+            color: #1a73e8;
+            font-weight: 500;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2>Welcome, {{ email }}</h2>
+    <h3>Balance: ₹{{ balance }}</h3>
+
+    <form method="POST" action="{{ url_for('add_money') }}">
+        <input type="number" name="amount" placeholder="Amount to add" step="0.01" required>
+        <button type="submit">Add Money</button>
+    </form>
+
+    <div style="margin: 20px 0;">
+        <a href="{{ url_for('send') }}">Send Money</a>
+        <a href="{{ url_for('logout') }}">Logout</a>
+    </div>
+
+    <h3>Transaction History:</h3>
+    <ul>
+        {% for txn in history %}
+            <li>
+                {{ txn.time }} - ₹{{ txn.amount }} from {{ txn.sender }} to {{ txn.receiver }} ({{ txn.status }})
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+</body>
+</html>

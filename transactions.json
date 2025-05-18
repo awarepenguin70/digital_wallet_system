@@ -1,0 +1,212 @@
+[
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 123.0,
+        "status": "OK",
+        "time": "2025-05-18T16:37:06.218114"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 132.0,
+        "status": "OK",
+        "time": "2025-05-18T16:40:13.332997"
+    },
+    {
+        "sender": "pengu@example.com",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 190.0,
+        "status": "OK",
+        "time": "2025-05-18T16:40:36.550527"
+    },
+    {
+        "sender": "pengu@example.com",
+        "receiver": "pengu2@example.com",
+        "amount": 1001.0,
+        "status": "FRAUD",
+        "time": "2025-05-18T16:54:03.053743"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 2000.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T17:16:02.439784"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu2@example.com",
+        "amount": 234.0,
+        "status": "OK",
+        "time": "2025-05-18T17:16:09.695358"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 701.0,
+        "status": "OK",
+        "time": "2025-05-18T17:16:22.361833"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 10000.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T17:16:34.830909"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 10000.0,
+        "status": "FRAUD - Exceeds \u20b91000",
+        "time": "2025-05-18T17:16:49.474484"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu2@example.com",
+        "amount": 1143.0,
+        "status": "FRAUD - Exceeds \u20b91000",
+        "time": "2025-05-18T17:34:16.294911"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 2.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T18:01:49.137620"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 2.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T18:01:50.296167"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 2.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T18:01:52.991873"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 222.0,
+        "status": "OK",
+        "time": "2025-05-18T18:01:57.869627"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 222.0,
+        "status": "OK",
+        "time": "2025-05-18T18:02:01.384240"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 222.0,
+        "status": "OK",
+        "time": "2025-05-18T18:02:05.486936"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 222.0,
+        "status": "OK",
+        "time": "2025-05-18T18:02:09.264068"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 222.0,
+        "status": "OK",
+        "time": "2025-05-18T18:02:12.710246"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu@example.com",
+        "amount": 222.0,
+        "status": "FREQUENCY_FRAUD - 5 transactions in last 10 minutes",
+        "time": "2025-05-18T18:02:16.446187"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "(admin@dffdp.com",
+        "amount": 1234.0,
+        "status": "AMOUNT_FRAUD - Exceeds \u20b91000",
+        "time": "2025-05-18T19:27:23.042676"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 1234.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T19:53:27.503131"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu2@example.com",
+        "amount": 22.0,
+        "status": "OK",
+        "time": "2025-05-18T19:58:28.956952"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 123.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T19:59:02.807596"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "(admin@dffdp.com",
+        "amount": 1234.0,
+        "status": "AMOUNT_FRAUD - Exceeds \u20b91000",
+        "time": "2025-05-18T19:59:11.383786"
+    },
+    {
+        "sender": "rahul004prasad@gmail.com",
+        "receiver": "pengu2@example.com",
+        "amount": 111.0,
+        "status": "OK",
+        "time": "2025-05-18T21:30:24.415656"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 123.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T21:48:21.260073"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "hello@example.com",
+        "amount": 1234.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T21:49:07.681207"
+    },
+    {
+        "sender": "hello@example.com",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 123.0,
+        "status": "OK",
+        "time": "2025-05-18T21:49:20.329880"
+    },
+    {
+        "sender": "SYSTEM",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 1000.0,
+        "status": "TOP-UP",
+        "time": "2025-05-18T22:04:15.635993"
+    },
+    {
+        "sender": "hello2@example.com",
+        "receiver": "rahul004prasad@gmail.com",
+        "amount": 123.0,
+        "status": "OK",
+        "time": "2025-05-18T22:04:53.572961"
+    }
+]
