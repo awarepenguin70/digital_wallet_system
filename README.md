@@ -141,8 +141,8 @@ digital_wallet_system/
 5. **Set up admin account**
     - After first run, manually add admin user to users.json:
       ```json
-      "admin@digitalwallet.com": {
-        "password": "your_bcrypt_hashed_password",
+      "admin@dffdp.com": {
+        "password": "123",
         "balance": 0,
         "is_admin": true
       }
