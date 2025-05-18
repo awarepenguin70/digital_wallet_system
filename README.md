@@ -1,4 +1,4 @@
-# Digital Wallet System with Cash Management and Fraud Detection - Comprehensive Documentation
+# Digital Wallet System with Cash Management and Fraud Detection
 
 ## Table of Contents
 1. [Project Definition](#project-definition)
